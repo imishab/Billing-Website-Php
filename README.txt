@@ -4,7 +4,7 @@ Username : msb
 pass : 1
 ================================
 
-2. Database (added in index folder hb.sql)
+2. Database (added in the main page hb.sql)
 --------------------------------
 $host = 'localhost';
 $user = 'root';
